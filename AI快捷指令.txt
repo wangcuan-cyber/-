@@ -1,0 +1,5 @@
+按照上方图片替换APK文件中人物模型其余保持不变,只更改人物模型,另存一个APK格式文件改名为Gemini桌宠,把包名改为Gemini，且把软件图标改为上方图片中人物模型正面图样
+
+git remote add origin https://github.com/wangcuan-cyber/11.git
+git branch -M main
+git push -u origin main
